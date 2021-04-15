@@ -18,9 +18,6 @@
     
     <!-- Android -->
   	<platform name="android">
-      	<js-module src="www/OpenUrlExt.js" name="OpenUrlExt">
-        	<runs/>
-      	</js-module>
   	</platform>
 
 	<!-- iOS -->
